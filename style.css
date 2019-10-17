@@ -1,0 +1,109 @@
+@font-face {
+
+font-family: RussoOne-Regular; /* Имя шрифта */
+
+src: url(fonts/RussoOne-Regular.ttf); /* Путь к файлу со шрифтом */
+
+}
+
+html,body,button,a,form{
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+ a{
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.7s;
+    cursor: pointer;
+    width: 210px;
+    height:   40px;
+
+}
+
+.logo{
+width: 100%;
+height: 100%;
+border-style: none;
+margin-left: -20px;
+margin-bottom: -20px;
+margin-top: -20px;
+margin-right: -20px;
+
+}
+
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+    width: 100px;
+    height: 20px;
+
+    
+}
+
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+
+}
+
+.frame1{
+    text-align: center; 
+    margin-top:     20px;
+
+
+
+}
+
+.logo{
+    width: 90px;
+    height:     70px;
+    text-align:     :    left;
+    position:   absolute;   
+}
+
+#centerlink{
+    margin-left: 40px;
+    display: inline-block; padding: 0 20px;
+    text-align:center;
+}
+.cl{
+    margin-left: 500px;
+}
+
+
+
+
+#htext {margin: 0 auto; width: 500px;
+
+
+
+
+
+
+}
+
+.frame3{
+    width: 100px;
+    height: 100px;
+}
+
+.texthead{
+    position: absolute;
+    margin-top: -140px;
+    margin-left: 50px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+
+}
